@@ -9,3 +9,5 @@ Testing with a brand new key!
 Here we go again!
 
 added to bash profile
+
+and gpg2
