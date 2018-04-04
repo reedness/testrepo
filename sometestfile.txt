@@ -10,4 +10,4 @@ Here we go again!
 
 added to bash profile
 
-and gpg2
+and i think it's fixed now thanks to adding that to bash profile and starting it again
