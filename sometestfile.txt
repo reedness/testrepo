@@ -3,3 +3,5 @@ This is a random test file.
 Absolutely nothing to see here!
 
 Please work this time yo!
+
+Testing with a brand new key!
